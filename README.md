@@ -6,6 +6,8 @@ To set up this repository, follow these steps:
 
 1. Start by generating a key using the following command:
    Copy the contents of `.env.example` to a new file named `.env`.
+     
+    copy .env.example .env
 
 2. Next, run the command:
    `composer install`
